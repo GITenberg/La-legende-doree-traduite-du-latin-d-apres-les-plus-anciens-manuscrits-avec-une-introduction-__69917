@@ -1,0 +1,45 @@
+_repo: La-legende-doree-traduite-du-latin-d-apres-les-plus-anciens-manuscrits-avec-une-introduction-__69917
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wyzewa, Teodor de
+    aliases:
+    - Wyzewa, Téodor de
+    - De Wyzewa, Teodor
+    - Wyzewa, T. de (Teodor)
+    - Wyzewa, Théodore de
+    - Wyzewa, Theodore de
+    - Wyzewski, Teodor
+    birthdate: 1862
+    deathdate: 1917
+    gutenberg_agent_id: '42402'
+    url: http://www.gutenberg.org/2009/agents/42402
+    wikipedia:
+    - https://en.wikipedia.org/wiki/T%C3%A9odor_de_Wyzewa
+    - https://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Wyzewa
+creator:
+  author:
+    agent_name: Voragine, Jacques de
+    gutenberg_agent_id: '55491'
+    url: http://www.gutenberg.org/2009/agents/55491
+description: ''
+gutenberg_issued: '2023-01-31'
+identifiers:
+  gutenberg: '69917'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k202210w
+pgterms:marc905: 20200503043929voragine
+pgterms:marc906: '1902'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive
+  and the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: 'France: Perrin et Cie,1902,copyright 1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La légende dorée: traduite du latin d''après les plus anciens manuscrits,
+  avec une introduction, des notes, et un index alphabétique'
+url: http://www.gutenberg.org/ebooks/69917
