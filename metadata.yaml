@@ -17,12 +17,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/T%C3%A9odor_de_Wyzewa
     - https://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Wyzewa
+covers:
+- cover_type: archival
+  image_path: 69917-h/images/cover.jpg
 creator:
   author:
     agent_name: Voragine, Jacques de
     gutenberg_agent_id: '55491'
     url: http://www.gutenberg.org/2009/agents/55491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69917#La-legende-doree-traduite-du-latin-d-apres-les-plus-anciens-manuscrits-avec-une-introduction-_
 gutenberg_issued: '2023-01-31'
 identifiers:
   gutenberg: '69917'
